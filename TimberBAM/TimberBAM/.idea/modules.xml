@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IbirapuerasTreeDestroyerSimulator.iml" filepath="$PROJECT_DIR$/.idea/IbirapuerasTreeDestroyerSimulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpaceGame/.idea/SpaceGame.iml" filepath="$PROJECT_DIR$/../SpaceGame/.idea/SpaceGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZikaVirusSimulator/.idea/ZikaVirusSimulator.iml" filepath="$PROJECT_DIR$/../ZikaVirusSimulator/.idea/ZikaVirusSimulator.iml" />
+    </modules>
+  </component>
+</project>
